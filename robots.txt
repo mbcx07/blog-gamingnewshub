@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gamingnewshub.net/blog-gamingnewshub/sitemap.xml
